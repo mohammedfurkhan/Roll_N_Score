@@ -323,7 +323,7 @@ input:placeholder-shown {
   }
 
   .dice {
-    top: 6rem;
+    top: 8rem;
     height: 5rem;
   }
 
@@ -336,8 +336,8 @@ input:placeholder-shown {
     color: rgb(117, 116, 219);
   }
   .close--modal {
-    margin-left: 1%;
-    margin-top: 2%;
+    margin-left: -8%;
+    margin-top: 15%;
   }
 }
 
@@ -391,5 +391,12 @@ input:placeholder-shown {
   .close--modal {
     margin-top: 5%;
     margin-left: 5%;
+  }
+}
+
+@media (min-width: 380px) {
+  .close--modal {
+    margin-left: 1%;
+    margin-top: 2%;
   }
 }
