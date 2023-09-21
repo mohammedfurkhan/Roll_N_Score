@@ -308,7 +308,7 @@ input:placeholder-shown {
 
   .score {
     font-size: 4rem;
-    margin-top: 50px;
+    margin-top: 114px;
   }
 
   .current {
@@ -318,12 +318,12 @@ input:placeholder-shown {
 
   .btn {
     padding: 0.4rem 1.2rem;
-    margin-left: -150px;
-    margin-top: 75px;
+    margin-left: -125px;
+    margin-top: 194px;
   }
 
   .dice {
-    top: 8rem;
+    top: 12rem;
     height: 5rem;
   }
 
@@ -397,6 +397,6 @@ input:placeholder-shown {
 @media (min-width: 380px) {
   .close--modal {
     margin-left: -4%;
-    margin-top: 12%;
+    margin-top: 27%;
   }
 }
