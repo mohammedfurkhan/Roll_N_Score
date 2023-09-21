@@ -396,7 +396,7 @@ input:placeholder-shown {
 
 @media (min-width: 380px) {
   .close--modal {
-    margin-left: 1%;
-    margin-top: 2%;
+    margin-left: -4%;
+    margin-top: 12%;
   }
 }
