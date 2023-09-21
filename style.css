@@ -39,6 +39,7 @@ input {
   background: none;
   border: none;
   font-size: 26px;
+  margin-top: 80px;
   margin-left: 45px;
   padding-left: 20%;
   border: 1px solid black;
@@ -50,6 +51,7 @@ input {
 input:placeholder-shown {
   width: 250px;
   padding-left: 30px;
+  margin-top: 80px;
 }
 
 .player {
@@ -87,6 +89,7 @@ input:placeholder-shown {
 }
 .player--active .score {
   font-weight: 400;
+  margin-top: 116px;
 }
 
 .player--active .current {
@@ -323,7 +326,7 @@ input:placeholder-shown {
   }
 
   .dice {
-    top: 12rem;
+    top: 23rem;
     height: 5rem;
   }
 
@@ -361,6 +364,7 @@ input:placeholder-shown {
 
   input {
     color: rgb(117, 116, 219);
+    margin-top: 10px;
   }
 
   .score {
@@ -380,7 +384,7 @@ input:placeholder-shown {
   }
 
   .dice {
-    top: 8rem;
+    top: 13rem;
     height: 6rem;
   }
 
@@ -396,7 +400,8 @@ input:placeholder-shown {
 
 @media (min-width: 380px) {
   .close--modal {
-    margin-left: -4%;
-    margin-top: 27%;
+    position: absolute;
+    margin-left: 1%;
+    margin-top: 1%;
   }
 }
