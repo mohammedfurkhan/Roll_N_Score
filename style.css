@@ -39,8 +39,9 @@ input {
   background: none;
   border: none;
   font-size: 26px;
-  margin-top: 80px;
+  margin-top: 42px;
   margin-left: 45px;
+  margin-bottom: 47px;
   padding-left: 20%;
   border: 1px solid black;
   border-radius: 5px;
@@ -51,7 +52,7 @@ input {
 input:placeholder-shown {
   width: 250px;
   padding-left: 30px;
-  margin-top: 80px;
+  margin-top: 41px;
 }
 
 .player {
@@ -79,6 +80,7 @@ input:placeholder-shown {
   font-weight: 300;
   color: #0c0226;
   margin-bottom: auto;
+  margin-bottom: 59px;
 }
 
 .player--active {
@@ -89,7 +91,7 @@ input:placeholder-shown {
 }
 .player--active .score {
   font-weight: 400;
-  margin-top: 116px;
+  /* margin-top: 35px; */
 }
 
 .player--active .current {
