@@ -319,12 +319,13 @@ input:placeholder-shown {
   .current {
     width: 30%;
     padding: 1rem;
+    margin-top: -51px;
   }
 
   .btn {
     padding: 0.4rem 1.2rem;
-    margin-left: -188px;
-    margin-top: 194px;
+    margin-left: -127px;
+    margin-top: 271px;
   }
 
   .dice {
